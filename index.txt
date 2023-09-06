@@ -1,2 +1,2 @@
 mounika chekka joshika 
-feature1 -> we are in feature 1
+feature1
